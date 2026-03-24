@@ -7,6 +7,7 @@ Tools implemented:
 Ping Scanner
 ARP Scanner
 Nmap Scanner
+Network scanner
 
 ## Requirements
 
@@ -28,5 +29,8 @@ python3 arp_scanner.py
 
 Nmap Scanner
 python3 nmap_scanner.py
+
+Network scanner
+python3 network_scanner
 
 Screenshots of output are included in the screenshots folder.
